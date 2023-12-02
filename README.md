@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zulucomputer
 - 👀 I’m interested in deep learning, anomaly detection, predictive analytics, uncertainty quatification, explainable AI, computer vision and more.
-- 🌱 I recently submitted my Ph.d. thesis in the school of Computer Science and Applied Mathematics at the University of the Witwatersrand, Johannesburg.
-- 💞️ I’m looking to collaborate on any interesting projects! My time is currently occupied with using AI & deep learning to solve problems unique to developing economies, and I serve as the Lead Data Scientist at South Africa's biggest fintech.
+- 🌱 I hold a Ph.d. in Data Science and Machine Learning from the school of Computer Science and Applied Mathematics at the University of the Witwatersrand, Johannesburg.
+- 💞️ I’m happy to collaborate on any interesting data-related projects! My time is currently occupied with using A.I. to solve complex problems unique to financial institutions, and I serve as the Head of Strategic Analytics at one of the big four banks in South Africa. Prior to that, I was the Lead Data Scientist at Africa's largest fintech.
 - 📫 How to reach me: tmm.mathonsi@gmail.com
 
 <!---
